@@ -44,3 +44,6 @@ If you liked this music bot please don't forget to give it a star it would mean 
 ***
 [![Ahad](https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg)](https://www.itscruel.cf)
 ***
+# ʜᴇʀᴋᴜ ᴅᴇᴘʟᴏʏ
+</h3>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/rohitxpro/love"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
